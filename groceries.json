@@ -2,25 +2,25 @@
   "groceries": [
     {
       "name": "banana",
-      "perishable": 1,
+      "perishable": true,
       "price": 8.0,
       "expirationDate": "29-12-2025"
     },
     {
       "name": "milk",
-      "perishable": 1,
+      "perishable": true,
       "price": 12.5,
       "expirationDate": "20-12-2025"
     },
     {
       "name": "eggs",
-      "perishable": 1,
+      "perishable": true,
       "price": 16.0,
       "expirationDate": "02-01-2026"
     },
     {
       "name": "noodles",
-      "perishable": 1,
+      "perishable": true,
       "price": 6.0,
       "expirationDate": "20-07-2026"
     }
