@@ -22,7 +22,7 @@
       "name": "noodles",
       "perishable": 1,
       "price": 6.0,
-      "expirationDate": "20.07.2026"
+      "expirationDate": "20-07-2026"
     }
   ]
 }
